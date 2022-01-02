@@ -1,0 +1,7 @@
+#boxes .box {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+#boxes .box:first-child {
+  margin-top: 30px;
+}

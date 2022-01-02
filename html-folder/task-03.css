@@ -1,0 +1,9 @@
+#gallery {
+  display: flex;
+}
+#gallery .item {
+  margin-right: 20px;
+}
+#gallery .item:last-child {
+  margin: 0;
+}
